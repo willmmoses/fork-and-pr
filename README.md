@@ -1,6 +1,6 @@
 # fork-and-pr
 Fork this repo, add your id to the list, submit a PR
-/play horn
+
 ## List of BUIDs:
 B00605903
 B00000000
